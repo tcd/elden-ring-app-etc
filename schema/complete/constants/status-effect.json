@@ -1,0 +1,15 @@
+{
+    "$id": "https://raw.githubusercontent.com/tcd/elden-ring-app/master/etc/schema/complete/constants/status-effect.json",
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "title": "Status Effect",
+    "type": "string",
+    "enum": [
+        "Blood Loss",
+        "Frostbite",
+        "Madness",
+        "Poison",
+        "Sleep",
+        "Death Blight",
+        "Scarlet Rot"
+    ]
+}
